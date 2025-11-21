@@ -4,7 +4,7 @@
 
 
 
-# 🕯️ PRINCIPLES OF PRATEJRATECH
+# 🕯️ PRINCIPLES OF PRATEJRA TECH
 
 <p align="center">
   <img src="light-shadow-circle.png" alt="Light and Shadow Icon" width="160"/>
